@@ -1,4 +1,4 @@
-## hi, I'm Siann!
+## Hi, I'm Siann!
 
 I'm a games computing student at Northumbria University. I focus on environment design and gameplay impacted by biofeedback, such as heart coherence. I specialise in immersive and atmospheric experiences that explore themes of anxiety, survival, and psychological horror. 
 
